@@ -43,7 +43,8 @@ div {
 #slogan {
     font-weight: lighter;
     color: black;
-    text-transform: uppercase;
+    text-transform: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     letter-spacing: 6px;
     font-size: 2em;
 }
@@ -78,7 +79,7 @@ main {
 }
 
 footer#connect {
-    background-color: white;
+    background-color: #ffffff;
     color: #000000;
     position: fixed;
     padding: 0.5rem;
