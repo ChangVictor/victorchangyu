@@ -13,12 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://ChangVictor.github.io/victorchangyu",
+  "homepage": "https://github.com/ChangVictor/victorchangyu#readme",
   "bugs": {
     "url": "https://github.com/ChangVictor/victorchangyu/issues"
   },
-  "homepage": "https://github.com/ChangVictor/victorchangyu#readme",
   "dependencies": {
-    "gh-pages": "^2.0.0"
+    "gh-pages": "^2.0.0",
+    "jshint": "^2.9.6"
   }
 }
