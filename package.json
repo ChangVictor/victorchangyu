@@ -1,7 +1,6 @@
 {
   "name": "veector.ch",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
@@ -18,7 +17,8 @@
     "url": "https://github.com/ChangVictor/victorchangyu/issues"
   },
   "dependencies": {
-    "gh-pages": "^2.0.0",
+    "gh-pages": "^2.0.1",
     "jshint": "^2.9.6"
-  }
+  },
+  "description": ""
 }
